@@ -37,7 +37,7 @@ CREATE TABLE `running_session` (
 --
 
 INSERT INTO `running_session` (`id`, `session`, `active`) VALUES
-(1, '2022-2023', 1),
+(1, '2023-2024', 1),
 (2, '2023-2024', 0);
 
 -- --------------------------------------------------------
